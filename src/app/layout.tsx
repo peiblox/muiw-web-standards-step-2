@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MUIW Wishlist",
+  title: "Step 2 - MUIW Wishlist",
   description: "Just some description",
 };
 
